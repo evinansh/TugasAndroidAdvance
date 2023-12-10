@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">tugasandroidadvanced</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_pratama">Pratama</string>
+  <string name="lbl_workout2">WORKOUT</string>
+  <string name="lbl_meditation2">MEDITATION</string>
+  <string name="lbl_my_app">My App</string>
+  <string name="lbl_my_parent">My Parent</string>
+  <string name="lbl_12">12</string>
+  <string name="lbl_mins2">Mins</string>
+  <string name="lbl_notifications">Notifications</string>
+  <string name="lbl_level">Level</string>
+  <string name="msg_reduce_your_str">Reduce Your Stress
+Meditation</string>
+  <string name="lbl_15">15</string>
+  <string name="lbl_mins">mins</string>
+  <string name="lbl_123">123</string>
+  <string name="lbl_meditation">Meditation</string>
+  <string name="lbl">\u2022</string>
+  <string name="lbl_privacy">Privacy</string>
+  <string name="lbl_security">security</string>
+  <string name="lbl_edit_profile">Edit profile</string>
+  <string name="lbl_workout">Workout</string>
+  <string name="lbl_workout_title">Workout Title</string>
+  <string name="lbl_account">Account</string>
+  <string name="lbl_cal">cal</string>
+</resources>
